@@ -62,8 +62,6 @@ const NARRATION_OVERRIDES = {
     'Vídeo. Cinto de Segurança e Ergonomia na Cabine. Normas de Trânsito Interno e Circulação. Assista ao vídeo sobre o cinto de segurança e a ergonomia na cabine. Avance quando concluir.',
   's-mod3-driver-rules':
     'Regras de Trânsito Interno. Os motoristas e manobristas devem conduzir seus veículos de forma a proteger o pedestre. Velocidade máxima de vinte quilômetros por hora dentro da unidade. Pisca-alerta e faróis sempre ligados na circulação interna. Cinto obrigatório e somente condutor habilitado. Na faixa de pedestre, pare, olhe os dois lados e dê preferência ao pedestre, com contato visual. Proibido usar ou manusear celular ao dirigir. Nunca bloqueie áreas críticas: não pare sobre faixas, rampas ou em frente a equipamentos de emergência. Carga e descarga somente nas docas, em áreas sinalizadas. Na Red Zone, nunca pessoa e empilhadeira ao mesmo tempo. Parada segura do caminhão: desligado, freio estacionário acionado e trava-rodas. Se precisar descer, use a rota segura pela frente da doca e pelas faixas de pedestres.',
-  's-mod3-video4':
-    'Vídeo. Curvas, Cruzamentos e Sinalização Sonora. Normas de Trânsito Interno e Circulação. Assista ao vídeo sobre curvas, cruzamentos e sinalização sonora. Avance quando concluir.',
   's-mod3-video5':
     'Vídeo. Subida, Descida e Estacionamento Preventivo. Normas de Trânsito Interno e Circulação. Assista ao vídeo sobre subida, descida e estacionamento preventivo. Avance quando concluir.',
   's-mod3-video6':
