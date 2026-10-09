@@ -50,6 +50,8 @@ const NARRATION_OVERRIDES = {
     'Vídeo. Faixas de Trânsito e Preferências de Passagem. Aptidão Psicofísica, Saúde e Regras de Acesso. Assista ao vídeo sobre faixas de trânsito e preferências de passagem. Avance quando concluir.',
   's-mod2-video5':
     'Vídeo. Bloqueio de Áreas Críticas e Estacionamento Preventivo. Aptidão Psicofísica, Saúde e Regras de Acesso. Assista ao vídeo sobre bloqueio de áreas críticas e estacionamento preventivo. Avance quando concluir.',
+  's-mod2-video6':
+    'Vídeo. Comportamento Profissional e Brincadeiras Inadequadas. Aptidão Psicofísica, Saúde e Regras de Acesso. Assista ao vídeo sobre comportamento profissional e brincadeiras inadequadas. Avance quando concluir.',
   's-mod2-motoristas':
     'Regras para Motoristas e Manobristas. Os motoristas e manobristas devem conduzir seus veículos de forma a proteger o pedestre. Velocidade máxima de 20 quilômetros por hora dentro da unidade. Pisca-alerta e faróis sempre ligados na circulação interna. Cinto obrigatório e somente condutor habilitado. Na faixa de pedestre, pare, olhe os dois lados e dê preferência ao pedestre, com contato visual. Proibido usar ou manusear celular ao dirigir. Nunca bloqueie áreas críticas: não pare sobre faixas, rampas ou em frente a equipamentos de emergência. Carga e descarga somente nas docas, em áreas sinalizadas. Na Red Zone, nunca pessoa e empilhadeira ao mesmo tempo. Parada segura do caminhão: desligado, freio estacionário acionado e trava-rodas. Se precisar descer, use a rota segura pela frente da doca e pelas faixas de pedestres.',
   's-mod3':
@@ -97,8 +99,6 @@ const NARRATION_OVERRIDES = {
     'Início do Módulo 6. Abastecimento (Pit Stop), Zoneamento de Risco e Comportamento.',
   's-mod6-video':
     'Vídeo. O Pit Stop e as Regras de Entrada. Abastecimento (Pit Stop), Zoneamento de Risco e Comportamento. Assista ao vídeo sobre o pit stop e as regras de entrada. Avance quando concluir.',
-  's-mod6-video2':
-    'Vídeo. Proibições Críticas no Abastecimento. Abastecimento (Pit Stop), Zoneamento de Risco e Comportamento. Assista ao vídeo sobre as proibições críticas no abastecimento. Avance quando concluir.',
   's-mod6-guia':
     'Guia rápido de segurança do Pit Stop. Regras fundamentais para a baia de abastecimento de GLP e baterias. A área de abastecimento é uma das zonas de maior risco químico e de explosão do armazém. Três regras de acesso e operação. Primeira: permitido apenas um equipamento por vez dentro da baia. Aguarde a sua vez na fila recuada. Segunda: o operador deve apenas estacionar, desligar a máquina e puxar o freio. A troca do cilindro de GLP ou a conexão das baterias é de responsabilidade exclusiva do técnico abastecedor habilitado. Terceira: respeite os avisos de piso e mantenha as saídas do Pit Stop sempre totalmente livres. Fontes de ignição proibidas, tolerância zero. Proibido fumar ou portar qualquer chama exposta. Proibido manusear celulares ou qualquer dispositivo eletrônico ligado, pelo perigo de faíscas estáticas e distração.',
   's-mod6-video3':
@@ -122,8 +122,6 @@ const NARRATION_OVERRIDES = {
     'Os quatro pilares de responsabilidade do operador. A sua atitude determina a segurança de todos. A NR 12 estabelece quatro responsabilidades diárias. Primeiro: inspeção diária. Verifique o estado mecânico e os sistemas de segurança antes de iniciar o turno, sem nenhuma exceção. Segundo: comunicação de falhas. Barulho estranho, mau funcionamento, folga no freio ou falha em luzes: não opere. Comunique imediatamente o supervisor ou a manutenção. Terceiro: respeito absoluto à capacidade. Nunca exceda o limite máximo de carga da placa do fabricante. A sobrecarga gera perda de controle e tombamentos. Quarto: seguir os procedimentos internos de tráfego, manuseio e segurança da empresa.',
   's-mod7-video3':
     'Vídeo. Identificando os Riscos Mecânicos e Elétricos. NR 12 — Segurança no Trabalho em Máquinas e Equipamentos. Assista ao vídeo sobre os riscos mecânicos e elétricos. Avance quando concluir.',
-  's-mod7-video4':
-    'Vídeo. Dispositivos de Segurança Obrigatórios. NR 12 — Segurança no Trabalho em Máquinas e Equipamentos. Assista ao vídeo sobre os dispositivos de segurança obrigatórios. Avance quando concluir.',
   's-mod7-protecao':
     'Sistemas de proteção e regras de proteção física. Dispositivos obrigatórios: seus escudos contra acidentes. Nunca neutralize, altere ou opere com qualquer dispositivo de segurança desligado ou danificado. Verifique diariamente: a grade de proteção superior, que resguarda a cabeça em caso de queda de objetos; o botão de desligamento de emergência, que trava a energia, a tração e a hidráulica; e a buzina, o giroflex e o alarme de ré, que avisam pedestres em áreas ruidosas. Duas regras de ouro: o cinto de segurança é obrigatório em todos os deslocamentos — em um tombamento, evita que o operador seja arremessado e esmagado pelo chassi. E o corpo deve permanecer sempre dentro do perímetro da cabine: nunca apoie o corpo na coluna de elevação nem coloque membros para fora com o veículo em movimento.',
   's-mod7-video5':

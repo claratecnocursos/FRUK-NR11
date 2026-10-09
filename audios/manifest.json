@@ -150,6 +150,14 @@
     },
     {
       "index": 18,
+      "id": "s-mod2-video6",
+      "title": "Comportamento Profissional e Brincadeiras Inadequadas",
+      "file": "audios/s-mod2-video6.mp3",
+      "text": "Vídeo. Comportamento Profissional e Brincadeiras Inadequadas. Aptidão Psicofísica, Saúde e Regras de Acesso. Assista ao vídeo sobre comportamento profissional e brincadeiras inadequadas. Avance quando concluir.",
+      "audioReady": false
+    },
+    {
+      "index": 18,
       "id": "s-mod2-game",
       "title": "Verdadeiro ou Falso?",
       "file": "audios/s-mod2-game.mp3",
@@ -349,14 +357,6 @@
       "audioReady": true
     },
     {
-      "index": 44,
-      "id": "s-mod6-video2",
-      "title": "Proibições Críticas no Abastecimento",
-      "file": "audios/s-mod6-video2.mp3",
-      "text": "Vídeo. Proibições Críticas no Abastecimento. Abastecimento (Pit Stop), Zoneamento de Risco e Comportamento. Assista ao vídeo sobre as proibições críticas no abastecimento. Avance quando concluir.",
-      "audioReady": true
-    },
-    {
       "index": 45,
       "id": "s-mod6-guia",
       "title": "Guia Rápido de Segurança do Pit Stop",
@@ -450,14 +450,6 @@
       "title": "Identificando os Riscos Mecânicos e Elétricos",
       "file": "audios/s-mod7-video3.mp3",
       "text": "Vídeo. Identificando os Riscos Mecânicos e Elétricos. NR 12 — Segurança no Trabalho em Máquinas e Equipamentos. Assista ao vídeo sobre os riscos mecânicos e elétricos. Avance quando concluir.",
-      "audioReady": true
-    },
-    {
-      "index": 57,
-      "id": "s-mod7-video4",
-      "title": "Dispositivos de Segurança Obrigatórios",
-      "file": "audios/s-mod7-video4.mp3",
-      "text": "Vídeo. Dispositivos de Segurança Obrigatórios. NR 12 — Segurança no Trabalho em Máquinas e Equipamentos. Assista ao vídeo sobre os dispositivos de segurança obrigatórios. Avance quando concluir.",
       "audioReady": true
     },
     {
